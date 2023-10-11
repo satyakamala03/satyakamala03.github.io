@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Satya Kamala."
     subtitle: "I am a Software Engineer"
-    content: "I like to think about engineering problems in web applications. I tend to build solutions using modern programming languages which might help in saving manual effort, or just make our lives easier, in any way."
+    content: "I like to think about engineering problems in web applications, use modern tech and bring new perspective to code. I tend to build solutions using modern programming languages which might help in saving manual effort, or just make our lives easier, in any way."
     # content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     bottomImage:
