@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Satya Kamala."
     subtitle: "I am a Software Engineer"
-    content: "I like to think about engineering problems in any web application. I tend to build solutions using modern programming languages which might help in saving manual effort, or just make our lives easier, in any way."
+    content: "I like to think about engineering problems in web applications. I tend to build solutions using modern programming languages which might help in saving manual effort, or just make our lives easier, in any way."
     # content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     bottomImage:
@@ -148,45 +148,44 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I am a software engineer with a deep passion for latest advancements the field of Computer Science, especially in Artificial Intelligence. I have a background in Electrical and Electonics Engineering and Physics. I have a strong interest in Tech and love to learn about the tech I use in my day-to-day life. I am currently working as a software engineer at PayPal India, in Bangalore, India.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on removing almost outdated tech from OCC-HERA, an open sourced software that makes database access so much more powerful.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "GoLang"
+        - "Java"
+        - "Docker and Kubernetes"
+        - "GCP"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "SSoftware Engineer-1"
+        company: "PayPal"
+        companyUrl: "https://www.paypal.com/in/home"
+        date: "July 2022 - present"
         featuredLink:
-          enable: true
+          enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: "I am currently working on removing almost outdated tech from OCC-HERA, an open sourced software that makes database access so much more powerful."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Software Engineer Intern"
+        company: "PayPal"
+        companyUrl: "https://www.paypal.com/in/home"
+        date: "February 2022 - June 2022"
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: "I worked as a software engineer intern in PayPal before joining as a full time software engineer at PayPal."
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
