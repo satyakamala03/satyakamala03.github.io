@@ -166,7 +166,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "SSoftware Engineer-1"
+      - job: "Software Engineer-1"
         company: "PayPal"
         companyUrl: "https://www.paypal.com/in/home"
         date: "July 2022 - present"
@@ -177,7 +177,7 @@ params:
         content: "I am currently working on removing almost outdated tech from OCC-HERA, an open sourced software that makes database access so much more powerful."
 
       - job: "Software Engineer Intern"
-        company: "PayPal"
+        company: "PayPal Intern"
         companyUrl: "https://www.paypal.com/in/home"
         date: "February 2022 - June 2022"
         featuredLink:
@@ -192,14 +192,14 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Software Development Intern"
+        company: "Rivigo"
+        companyUrl: "https://www.rivigo.com/"
+        date: "July 2021 - December 2021"
         info:
           enable: false
         featuredLink:
-          enable: true
+          enable: false
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
@@ -207,24 +207,24 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      # - job: "UI/UX Designer"
+      #   company: "Netflix"
+      #   companyUrl: "https://example.com"
+      #   date: "June 2017 - Nov 2019"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
+      #   content: |
+      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      #     - Lead backend developer for a product.
+      #     - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      # - job: "Product Designer"
+      #   company: "Google"
+      #   companyUrl: "https://example.com"
+      #   date: "Feb 2016 - Mar 2017"
+      #   content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
@@ -232,42 +232,47 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Bachelor of Engineering in Electrical and Electronics Engineering"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "Birla Institute of Technology and Science, Pilani"
+          url: "https://www.bits-pilani.ac.in/hyderabad/"
+        date: "2017 - 2022"
+        GPA: "7.95 out of 10"
         content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          Subjects: Computer Programming, Microprocessors and Interfacing, Operating Systems, Object Oriented Programming, Neural Networks and Fuzzy Logic
+        #   Extracurricular Activities
+        #     - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        #     - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+      - title: "Master of Science in Physics"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
+          name: "Birla Institute of Technology and Science, Pilani"
+          url: "https://www.bits-pilani.ac.in/hyderabad/"
+        date: "2017 - 2022"
+        GPA: "7.95 out of 10"
+        # content: |-
+        #   I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+        #   - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+        #   - Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+            1. Member of Organizing body in IMPACT – cultural and educational fest organized for underprivileged children, Hyderabad, 2018-19
+              - Introducing young children to science and technology and life at a university.
+              - Conducted Math and Science competitions and distributed prizes, which gave them a boost for pursuing STEM courses.
+            2. NSS Volunteer – BITS, Pilani Hyderabad Chapter, 2018-19
+              - Tutor for Computer Learning Program for children in government schools.
+              - Tree plantation drives in nearby schools.
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
       - title: "High School"
         school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Sri Chaitanya Junior College (Telangana State Board of Intermediate Education)"
+          url: "https://srichaitanya.net/"
+        GPA: "979 out of 1000"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
 
   # Achievements
   achievements:
